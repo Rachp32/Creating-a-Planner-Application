@@ -15,3 +15,4 @@ The app should:
 - Allow a user to enter an event when they click a timeblock.
 - Save the event in local storage when the save button is clicked in that timeblock.
 - Persist events between refreshes of a page.
+![Screenshot (14)](https://github.com/Rachp32/Creating-a-Planner-Application/assets/145992866/15a7b92b-bbb8-4046-8e14-a2f6970ecbed)
